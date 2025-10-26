@@ -1,16 +1,57 @@
-## Hi there 👋
+# 👋 Bonjour, je suis **Yann Noume**
 
-<!--
-**yann200/yann200** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🎯 Data Scientist | ML Engineer | Data Engineer  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 À propos de moi  
+
+Titulaire d’un **Master en Intelligence Artificielle et Big Data**, je suis passionné par la **valorisation de la donnée** et son **impact sur la prise de décision**.  
+
+Mon approche couvre l’ensemble du **cycle de vie de la donnée** :
+- 🔹 Extraction et transformation via des pipelines robustes et automatisés  
+- 🔹 Analyse exploratoire et modélisation statistique  
+- 🔹 Conception et déploiement de modèles de **Machine Learning / Deep Learning**  
+- 🔹 Suivi de performance et industrialisation (MLOps)
+
+Je combine rigueur technique, curiosité et vision métier pour **transformer les données en leviers d’action stratégiques**.
+
+---
+
+## 🛠️ Compétences techniques  
+
+**Langages :**  
+Python | R | SQL | PySpark  
+
+**Data Science & ML :**  
+Pandas | Scikit-Learn | TensorFlow | PyTorch | XGBoost | Tidyverse  
+
+**Développement & API :**  
+FastAPI | Streamlit | R Shiny  
+
+**Cloud & BI :**  
+AWS | Azure | GCP | BigQuery | Snowflake | Power BI  
+
+**DevOps & MLOps :**  
+Docker | GitHub Actions | Airflow | dbt | CI/CD  
+
+---
+
+## 🚀 Ce que j’apporte  
+
+✅ **Expertise technique solide** & approche orientée business  
+✅ **Solutions scalables et maintenables** adaptées aux besoins réels  
+✅ **Communication fluide** avec les équipes techniques et métiers  
+✅ **Livraison rapide** de solutions fiables et de haute qualité  
+
+---
+
+## 📫 Me contacter  
+
+📧 **Email :** [noumeyann@gmail.com](mailto:noumeyann@gmail.com)  
+💼 **LinkedIn :** [linkedin.com/in/yann-noume](https://linkedin.com/in/yann-noume) *(ajoute ton lien si tu veux)*  
+🌍 **Portfolio / Projets GitHub :** Découvre mes travaux ci-dessous 👇  
+
+---
+
+⭐ *N’hésite pas à explorer mes projets et à me contacter pour échanger sur la data, l’IA ou de nouvelles opportunités !*
