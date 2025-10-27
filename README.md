@@ -48,9 +48,7 @@ Docker | GitHub Actions | Airflow | dbt | CI/CD
 
 ## 📫 Me contacter  
 
-📧 **Email :** [noumeyann@gmail.com](mailto:noumeyann@gmail.com)  
-💼 **LinkedIn :** [linkedin.com/in/yann-noume](https://linkedin.com/in/yann-noume) *(ajoute ton lien si tu veux)*  
-🌍 **Portfolio / Projets GitHub :** Découvre mes travaux ci-dessous 👇  
+📧 **Email :** [noumeyann@gmail.com](mailto:noumeyann@gmail.com)    
 
 ---
 
