@@ -1,4 +1,4 @@
-[![banner](./img/banner.png)](https://github.com/bryantchakote)
+[![banner](./banner.png)](https://github.com/bryantchakote)
 
 <h1 align="center">Hello, I'm Yann Noume Tagueyang 😁</h1>
 
