@@ -1,55 +1,149 @@
-# 👋 Bonjour, je suis **Yann Noume**
+[![banner](./img/banner.png)](https://github.com/bryantchakote)
 
-### 🎯 Data Scientist | ML Engineer | Data Engineer  
+<h1 align="center">Hello, I'm Yann Noume Tagueyang 😁</h1>
 
----
+<h3 align="center">A random guy with a deep passion for Data Science & Data Engineering</h3>
 
-## 🧠 À propos de moi  
+<hr>
 
-Titulaire d’un **Master en Intelligence Artificielle et Big Data**, je suis passionné par la **valorisation de la donnée** et son **impact sur la prise de décision**.  
+### 📂 Projects
 
-Mon approche couvre l’ensemble du **cycle de vie de la donnée** :
+#### 01. Constuction of an ETL pipeline (New york Taxi)
+
+- [github.com/yann200/etl_newyork_trip_pipeline]([https://github.com/yann200/etl_newyork_trip_pipeline])
+- `Python` `Pyspark` `Fichiers Parquet` `MySQL`
+
+#### 02. Books ETL Pipeline
+
+- [github.com/yann200/Books_etl_pipeline]([https://github.com/yann200/Books_etl_pipeline])
+- `Python` `Airflow` `Docker` `PostgreSql` `Web scraping`
+
+#### 03. Credit risk detection
+
+- [github.com/yann200/credit_risk_detection]([https://github.com/yann200/credit_risk_detection])
+- `Python` `Machine Learning` `Streamlit` `AWS` `Scikit-Learn` `Feature engineering` `Data visualisation`
+
+#### 04. Fraud card detection
+
+- [github.com/yann200/Credit-card-fraud-detection]([https://github.com/yann200/Credit-card-fraud-detection])
+- `Python` `Machine Learning` `Streamlit` `AWS` `Scikit-Learn` `Feature engineering` `Data visualisation`
+
+#### 05. Taxi trips data engineering
+
+- [github.com/yann200/Taxi-Trips-Data-Engineering-GCP]([https://github.com/yann200/Taxi-Trips-Data-Engineering-GCP])
+- `Python` `Machine Learning` `GCP` `Scikit-Learn` `ETL` `SQL` `BigQuery` `Airflow`
+
+#### 06. Pyspark data analysis
+
+- [github.com/yann200/Pyspark_chicago_data]([https://github.com/yann200/Pyspark_chicago_data])
+- `Pyspark` `data visualisation`
+
+#### 07. retail data analysis
+
+- [github.com/yann200/sql_retail_sale_1]([https://github.com/yann200/sql_retail_sale_1])
+- `SQL` `data cleaning`
+  
+#### 08. Clothes classification
+
+- [github.com/yann200/IDclothes]([https://github.com/yann200/IDclothes])
+- `Tensorflow` `MLflow` `python` `Docker` `Pytorch` `Neuronal Network`
+
+#### 09.Hard point detection 
+
+- [github.com/yann200/CETIA_RayonX]([https://github.com/yann200/CETIA_RayonX])
+- `YOLO` `MLflow` `python` `Docker` `Computer vision` `Neuronal Network`
+
+#### 10.Prediction of number of passenger in bus line 
+
+- [github.com/yann200/Projet-Prediction-Affluence-ligne-de-Bus]([https://github.com/yann200/Projet-Prediction-Affluence-ligne-de-Bus])
+- `Machine learning` `MLflow` `python` `pandas` `scikit learn`
+
+
+#### 11.Medical Insurance Prediction
+
+- [github.com/yann200/Medical-Insurance-Prediction]([https://github.com/yann200/Medical-Insurance-Prediction])
+- `Machine learning` `python` `pandas` `scikit learn` 
+
+#### 12.Cervical cancer prediction
+
+- [github.com/yann200/Cervical-Cancer-Prediction]([https://github.com/yann200/Cervical-Cancer-Prediction])
+- `Machine learning` `python` `pandas` `scikit learn` 
+
+<hr>
+
+### ✅ Languages and Tools
+
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="40"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://streamlit.io/images/brand/streamlit-mark-color.png" alt="streamlit" width="40" height="40"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="R" width="40" height="40"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="sql" width="40" height="40"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" alt="scikit-learn" width="40" height="40"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="40" height="40"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="pytorch" width="40" height="40"/>
+</p>
+
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="sql" width="40" height="40"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apacheairflow/apacheairflow-original.svg" alt="airflow" width="40" height="40"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://avatars.githubusercontent.com/u/64725430?s=200&v=4" alt="dbt" width="40" height="40"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original.svg" alt="spark" width="40" height="40"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original.svg" alt="pyspark" width="40" height="40"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachekafka/apachekafka-original.svg" alt="kafka" width="40" height="40"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://avatars.githubusercontent.com/u/4998052?s=200&v=4" alt="databricks" width="40" height="40"/>
+</p>
+
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="aws" width="40" height="40"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" alt="gcp" width="40" height="40"/>
+</p>
+
+<hr>
+
+### Mon approche
+
 - 🔹 Extraction et transformation via des pipelines robustes et automatisés  
 - 🔹 Analyse exploratoire et modélisation statistique  
 - 🔹 Conception et déploiement de modèles de **Machine Learning / Deep Learning**  
 - 🔹 Suivi de performance et industrialisation (MLOps)
 
-Je combine rigueur technique, curiosité et vision métier pour **transformer les données en leviers d’action stratégiques**.
 
----
 
-## 🛠️ Compétences techniques  
 
-**Langages :**  
-Python | R | SQL | PySpark  
 
-**Data Science & ML :**  
-Pandas | Scikit-Learn | TensorFlow | PyTorch | XGBoost | Tidyverse  
 
-**Développement & API :**  
-FastAPI | Streamlit | R Shiny  
 
-**Cloud & BI :**  
-AWS | Azure | GCP | BigQuery | Snowflake | Power BI  
 
-**DevOps & MLOps :**  
-Docker | GitHub Actions | Airflow | dbt | CI/CD  
 
----
 
-## 🚀 Ce que j’apporte  
 
-✅ **Expertise technique solide** & approche orientée business  
-✅ **Solutions scalables et maintenables** adaptées aux besoins réels  
-✅ **Communication fluide** avec les équipes techniques et métiers  
-✅ **Livraison rapide** de solutions fiables et de haute qualité  
 
----
 
-## 📫 Me contacter  
 
-📧 **Email :** [noumeyann@gmail.com](mailto:noumeyann@gmail.com)    
 
----
 
-⭐ *N’hésite pas à explorer mes projets et à me contacter pour échanger sur la data, l’IA ou de nouvelles opportunités !*
+
+
+
+
+
+
