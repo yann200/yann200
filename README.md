@@ -35,7 +35,7 @@
 
 #### 06. Pyspark data analysis
 
-- [github.com/yann200/Pyspark_chicago_data]([https://github.com/yann200/Pyspark_chicago_data])
+- [github.com/yann200/Pyspark_chicago_data](https://github.com/yann200/Pyspark_chicago_data)
 - `Pyspark` `data visualisation`
 
 #### 07. retail data analysis
