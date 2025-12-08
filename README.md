@@ -8,63 +8,73 @@
 
 ### 📂 Projects
 
-#### 01. Constuction of an ETL pipeline (New york Taxi)
+####  ChatbotIA 1
+
+- [github.com/yann200/chatbot-IA-AWS-Bedrock-Lambda](https://github.com/yann200/chatbot-IA-AWS-Bedrock-Lambda-)
+- `Python` `AWS LAMBDA` `API Gateway` `AWS Bedrock` `Postman`
+  
+####  ChatbotIA 2
+
+- [github.com/yann200/chatbotIA_2](https://github.com/yann200/chatbotIA_2)
+- `Python` `AWS` `AWS Bedrock` `FAST API`
+  
+####  Constuction of an ETL pipeline (New york Taxi)
 
 - [github.com/yann200/etl_newyork_trip_pipeline](https://github.com/yann200/etl_newyork_trip_pipeline)
 - `Python` `Pyspark` `Fichiers Parquet` `MySQL`
 
-#### 02. Books ETL Pipeline
+####  Books ETL Pipeline
 
 - [github.com/yann200/Books_etl_pipeline](https://github.com/yann200/Books_etl_pipeline)
 - `Python` `Airflow` `Docker` `PostgreSql` `Web scraping`
 
-#### 03. Credit risk detection
+####  Credit risk detection
 
 - [github.com/yann200/credit_risk_detection](https://github.com/yann200/credit_risk_detection)
 - `Python` `Machine Learning` `Streamlit` `AWS` `Scikit-Learn` `Feature engineering` `Data visualisation`
 
-#### 04. Fraud card detection
+####  Fraud card detection
 
 - [github.com/yann200/Credit-card-fraud-detection](https://github.com/yann200/Credit-card-fraud-detection)
 - `Python` `Machine Learning` `Streamlit` `AWS` `Scikit-Learn` `Feature engineering` `Data visualisation`
 
-#### 05. Taxi trips data engineering
+####  Taxi trips data engineering
 
 - [github.com/yann200/Taxi-Trips-Data-Engineering-GCP](https://github.com/yann200/Taxi-Trips-Data-Engineering-GCP)
 - `Python` `Machine Learning` `GCP` `Scikit-Learn` `ETL` `SQL` `BigQuery` `Airflow`
 
-#### 06. Pyspark data analysis
+####  Pyspark data analysis
 
 - [github.com/yann200/Pyspark_chicago_data](https://github.com/yann200/Pyspark_chicago_data)
 - `Pyspark` `data visualisation`
 
-#### 07. retail data analysis
+####  retail data analysis
 
 - [github.com/yann200/sql_retail_sale_1](https://github.com/yann200/sql_retail_sale_1)
 - `SQL` `data cleaning`
   
-#### 08. Clothes classification
+####  Clothes classification
 
 - [github.com/yann200/IDclothes](https://github.com/yann200/IDclothes)
 - `Tensorflow` `MLflow` `python` `Docker` `Pytorch` `Neuronal Network`
 
-#### 09.Hard point detection 
+#### Hard point detection 
 
 - [github.com/yann200/CETIA_RayonX](https://github.com/yann200/CETIA_RayonX)
 - `YOLO` `MLflow` `python` `Docker` `Computer vision` `Neuronal Network`
 
-#### 10.Prediction of number of passenger in bus line 
+#### Prediction of number of passenger in bus line 
 
 - [github.com/yann200/Projet-Prediction-Affluence-ligne-de-Bus](https://github.com/yann200/Projet-Prediction-Affluence-ligne-de-Bus)
 - `Machine learning` `MLflow` `python` `pandas` `scikit learn`
 
 
-#### 11.Medical Insurance Prediction
+#### Medical Insurance Prediction
 
 - [github.com/yann200/Medical-Insurance-Prediction](https://github.com/yann200/Medical-Insurance-Prediction)
 - `Machine learning` `python` `pandas` `scikit learn` 
 
-#### 12.Cervical cancer prediction
+#### Cervical cancer prediction
 
 - [github.com/yann200/Cervical-Cancer-Prediction](https://github.com/yann200/Cervical-Cancer-Prediction)
 - `Machine learning` `python` `pandas` `scikit learn` 
