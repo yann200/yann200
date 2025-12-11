@@ -8,6 +8,12 @@
 
 ### 📂 Projects
 
+####  Medical Chatbot
+
+- [github.com/yann200/Medical Chatbot](https://github.com/yann200/Medical-Chatbot)
+- `Python` `AWS` `Flask` `Langchain` `OpenAI API` `Pinecone`
+
+
 ####  ChatbotIA 1
 
 - [github.com/yann200/chatbot-IA-AWS-Bedrock-Lambda](https://github.com/yann200/chatbot-IA-AWS-Bedrock-Lambda-)
