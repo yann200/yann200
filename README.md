@@ -8,11 +8,15 @@
 
 ### 📂 Projects
 
+####  ETL GCP
+
+- [github.com/yann200/etl-gcp](https://github.com/yann200/GCP-Dataproc-ETL)
+- `GCP` `Cloud Storage` `Cloud Dataproc` `Big Query` `PySpark`
+
 ####  Medical Chatbot
 
 - [github.com/yann200/Medical Chatbot](https://github.com/yann200/Medical-Chatbot)
 - `Python` `AWS` `Flask` `Langchain` `OpenAI API` `Pinecone`
-
 
 ####  ChatbotIA 1
 
