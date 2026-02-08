@@ -8,6 +8,11 @@
 
 ### 📂 Projects
 
+#### SQL Agent
+
+- [github.com/yann200/Agent-Sql](https://github.com/yann200/Agent-sql)
+- `Gradio` `Langchain` `Sql` `Open AI`
+  
 ####  ETL GCP
 
 - [github.com/yann200/etl-gcp](https://github.com/yann200/GCP-Dataproc-ETL)
