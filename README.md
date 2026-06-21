@@ -8,6 +8,12 @@
 
 ### 📂 Projects
 
+#### Fraud Detection Data Pipeline
+
+- [github.com/yann200/Fraud-Detection-Data-Pipeline](https://github.com/yann200/Fraud_detection_data_pipeline)
+- `AWS` `Snowflake` `DBT` `Docker` `CI/CD` `python/Sql`
+
+
 #### SQL Agent
 
 - [github.com/yann200/Agent-Sql](https://github.com/yann200/Agent-sql)
